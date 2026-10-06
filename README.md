@@ -79,70 +79,14 @@ Allow
 
 Microphone access is required for reading and pronunciation features.
 
-## Build the app
-
-You can build the Android app using:
-
-- Google Colab
-- Android Studio
-
-The project uses:
-
-```text
-Java 17
-Android SDK 36
-Minimum Android SDK 24
-```
-
-Package name:
-
-```text
-com.nafishaider.arabicreading
-```
 
 ## Main Website
 
 https://arabic-reading.nafishaider.com/
 
-## Updating the app
-
-Most website changes do not require a new APK.
-
-Simply update the live website:
-
-```text
-arabic-reading.nafishaider.com
-```
-
-The Android app will load the latest version.
-
-You only need to rebuild the Android app when changing things such as:
-
-- App name
-- App icon
-- Android permissions
-- Native Android features
-- Package name
-- Android SDK version
-
-## Open Source
-
-This project is open source under the **MIT License**.
-
-You are free to:
-
-- Use it
-- Modify it
-- Fork it
-- Share it
-- Use it in your own projects
-
-See the `LICENSE` file for full details.
 
 ## License
 
 MIT License
 
 Copyright © 2026 Nafis Haider
-
-This version is much better for a public GitHub repo because someone can understand what the project does within a few seconds.
