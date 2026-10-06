@@ -596,8 +596,4 @@ https://arabic-reading.nafishaider.com/
 
 ## License
 
-Internal/private project unless otherwise specified by the repository owner.
-
-Copyright © 2026.
-
-All rights reserved.
+This project is open source and licensed under the MIT License.
