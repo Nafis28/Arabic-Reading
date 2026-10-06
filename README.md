@@ -15,12 +15,6 @@ It is designed to give users a simple installable Android application while keep
 <img width="1691" height="1078" alt="image" src="https://github.com/user-attachments/assets/6c6b544b-0c78-41c1-a01c-14c2a67107ea" />
 
 
-<img width="1698" height="1208" alt="image" src="https://github.com/user-attachments/assets/a6d87ba6-eb62-432f-a1f4-896bc41cec6a" />
-
-
-
-
-
 ## Overview
 
 Arabic Reading Coach is a mobile-friendly Arabic reading application designed to help learners practise Arabic pronunciation and reading.
