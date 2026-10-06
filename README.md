@@ -9,11 +9,6 @@ https://arabic-reading.nafishaider.com/
 It is designed to give users a simple installable Android application while keeping the main Arabic Reading Coach application hosted and updated through the web platform.
 
 ---
-## Images
-
-
-<img width="1691" height="1078" alt="image" src="https://github.com/user-attachments/assets/6c6b544b-0c78-41c1-a01c-14c2a67107ea" />
-
 
 ## Overview
 
@@ -22,6 +17,9 @@ Arabic Reading Coach is a mobile-friendly Arabic reading application designed to
 The Android app loads the live Arabic Reading Coach platform inside a secure Android WebView.
 
 This means improvements made to the web application are automatically available to Android users without requiring a new APK release for normal website updates.
+
+<img width="1691" height="1078" alt="image" src="https://github.com/user-attachments/assets/6c6b544b-0c78-41c1-a01c-14c2a67107ea" />
+
 
 ---
 
