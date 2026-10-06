@@ -10,6 +10,7 @@ It is designed to give users a simple installable Android application while keep
 
 ---
 
+
 ## Overview
 
 Arabic Reading Coach is a mobile-friendly Arabic reading application designed to help learners practise Arabic pronunciation and reading.
@@ -80,6 +81,22 @@ Allow
 Microphone access is required for reading and pronunciation features.
 
 
+## Apple Device & Install
+XCode is given - You can install but bit of a mission
+
+How to install it on an iPhone
+Unlike Android APKs, Apple requires the app to be signed.
+On a Mac:
+1. Extract the ZIP.
+2. Open:
+   ArabicReadingCoach.xcodeproj
+3. In Xcode select ArabicReadingCoach → Signing & Capabilities.
+4. Select your Apple Developer Team.
+5. Connect your iPhone.
+6. Select your iPhone at the top of Xcode.
+7. Press ▶ Run.
+
+   
 ## Main Website
 
 https://arabic-reading.nafishaider.com/
